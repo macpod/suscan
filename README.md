@@ -22,7 +22,7 @@ After installing all dependencies, Suscan can be compiled executing the followin
 
 ```
 % ./autogen.sh
-% ,/configure
+% ./configure
 % make
 % sudo make install
 % sudo ldconfig
